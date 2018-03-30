@@ -1,11 +1,13 @@
 xt3ch - xt3
 
 Community-related info
+https://discord.gg/U72VYXR
 Official site http://xt3ch.com 
 How to mine? http://xt3.tech
-Github source code	https://github.com/currexpert/xt3chsource 
+Invest in masternodes	http://xt3.solutions 
 Blocks explorer	http://explorer.xt3.tech:3001 
-Exchange Market https://cryptohub.online/market/XT3/
+Exchange Markets https://cryptohub.online/market/XT3/
+https://graviex.net/markets/xt3btc
 
 DOWNLOAD WALLET
 Software is available for Windows and Linux.
