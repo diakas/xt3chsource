@@ -1,21 +1,20 @@
-xt3ch - xt3
+⚪xt3ch - xt3
 
 Community-related info
 https://bitcointalk.org/index.php?topic=2893689.0
-https://discord.gg/U72VYXR
-Airdrop is LIVE NOW! http://xt3ch.com 
-How to mine? http://xt3.tech
-Invest in masternodes	http://xt3.solutions 
-Blocks explorer	http://explorer.xt3.tech:3001 
-#Xt3ch #XT3 historic and live price charts from all exchanges. 
+👔https://discord.gg/U72VYXR
+🎶 Watch and win ! http://xt3.fun
+⁉How to mine? http://xt3.tech
+📈Invest in masternodes	http://xt3.solutions 
+☑Blocks explorer	http://explorer.xt3.tech:3001 
+✅#Xt3ch #XT3 historic and live price charts from all exchanges. 
 Find all related #cryptocurrency info and read about Xt3ch's latest #news.
 https://coinlib.io/coin/XT3/Xt3ch
-Exchange Markets 
+📈Exchange Markets 
 https://cryptohub.online/market/XT3/
-https://graviex.net/markets/xt3btc
 https://crex24.com/exchange/XT3-BTC
 
-DOWNLOAD WALLET
+DOWNLOAD 🔐WALLET
 Software is available for Windows,Linux and MacOS.
 ----------------------------------------------------------------------------------------------------
 [#LINK1][WINDOWS] https://drive.google.com/file/d/1S_LMDR26s3Nak8AzGj3NV6ccSBfNXTkD/view?usp=sharing 
