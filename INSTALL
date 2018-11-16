@@ -26,6 +26,8 @@ chmod 755 *
 cd ..
 and compile again
 
-in folder src --- 
+in folder src --- xt3chd
+
+for to reduce the size: strip --strip-all xt3chd
 
 *******************************************************
