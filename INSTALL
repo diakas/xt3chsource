@@ -1,9 +1,31 @@
 Building xt3ch
 
-See doc/readme-qt.rst for instructions on building xt3ch QT,
-the intended-for-end-users, nice-graphical-interface, reference
-implementation of xt3ch.
+apt-get install nano git build-essential libssl-dev libdb++-dev libboost-all-dev libqrencode-dev miniupnpc libminiupnpc-dev autoconf pkg-config libtool libgmp-dev autotools-dev libqt5gui5 libqt5core5a libqt5dbus5 qttools5-dev qttools5-dev-tools libprotobuf-dev automake -y
 
-See doc/build-*.txt for instructions on building xt3chd,
-the intended-for-services, no-graphical-interface, reference
-implementation of xt3ch.
+for 18.04 ---- 
+
+apt-get remove libssl-dev
+
+apt-get install libssl1.0-dev 
+
+git clone https://github.com/diakas/xt3chsource.git
+
+cd xt3chsource/src/
+
+Try, before make: mkdir obj obj/zerocoin
+
+make -f makefile.unix USE_UPNP=1
+
+If you ever encounter the error
+src/leveldb/libleveldb.a: No such file or directory
+/src/leveldb/libmemenv.a: No such file or directory
+when compiling do the following:
+
+cd leveldb
+chmod 755 *
+cd ..
+and compile again
+
+in folder src --- 
+
+*******************************************************
